@@ -17,3 +17,7 @@ MiniWindows - Custom Windows 11 used here
 
 
 noVNC - VNC Client in the webpage
+
+
+I still have it but my internet does not want to connect to it
+To install a browser after use this in powershell https://www.youtube.com/shorts/T7zm7nXgs5A
